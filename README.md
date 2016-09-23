@@ -1,0 +1,3 @@
+# Countdown
+
+A simple countdown timer for use in talks, presentations etc...
